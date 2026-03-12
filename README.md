@@ -44,5 +44,19 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/Shahnawaz-Official
-* https://shahnawaz-portfolio-three.vercel.app/
+<p align="center">
+
+<a href="https://www.linkedin.com/in/md-shahnawaz-ms/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://shahnawaz-portfolio-three.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/shahnawaz420/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
